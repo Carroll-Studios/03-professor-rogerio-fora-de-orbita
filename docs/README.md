@@ -14,9 +14,9 @@ Documentação da equipe sobre o planejamento e design do jogo Professor Rogéri
 
 <br/>
 
-<img src="https://img.shields.io/badge/🪐_cenarios-do-jogo-8B5CF6?style=flat-square&logoColor=white" alt="cenarios-do-jogo" />
-<img src="https://img.shields.io/badge/🧑‍🚀_design-personagens-6D28D9?style=flat-square&logoColor=white" alt="design-personagens" />
-<img src="https://img.shields.io/badge/🚀_design-nave-EC4899?style=flat-square&logoColor=white" alt="design-nave" />
+<img src="https://img.shields.io/badge/🪐_cenarios--do--jogo-8B5CF6?style=flat-square&logoColor=white" alt="cenarios-do-jogo" />
+<img src="https://img.shields.io/badge/🧑‍🚀_design--personagens-6D28D9?style=flat-square&logoColor=white" alt="design-personagens" />
+<img src="https://img.shields.io/badge/🚀_design--nave-EC4899?style=flat-square&logoColor=white" alt="design-nave" />
 <img src="https://img.shields.io/badge/📽️_presentations-8B5CF6?style=flat-square&logoColor=white" alt="presentations" />
 
 </div>
